@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Log issue event
-        run: echo "Issue #${{ github.event.issue.number }} was ${{ github.event.action }}"
+        run: echo 'Issue ${{ github.event.issue.number }} #was ${{ github.event.action }}''
