@@ -1,0 +1,14 @@
+D:\.NET Projects\C# - Lista de Compra\obj\Debug\net9.0\C# - Lista de Compra.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Projects\C# - Lista de Compra\obj\Debug\net9.0\C# - Lista de Compra.AssemblyInfoInputs.cache
+D:\.NET Projects\C# - Lista de Compra\obj\Debug\net9.0\C# - Lista de Compra.AssemblyInfo.cs
+D:\.NET Projects\C# - Lista de Compra\obj\Debug\net9.0\C# - Lista de Compra.csproj.CoreCompileInputs.cache
+D:\.NET Projects\C# - Lista de Compra\bin\Debug\net9.0\C# - Lista de Compra.exe
+D:\.NET Projects\C# - Lista de Compra\bin\Debug\net9.0\C# - Lista de Compra.deps.json
+D:\.NET Projects\C# - Lista de Compra\bin\Debug\net9.0\C# - Lista de Compra.runtimeconfig.json
+D:\.NET Projects\C# - Lista de Compra\bin\Debug\net9.0\C# - Lista de Compra.dll
+D:\.NET Projects\C# - Lista de Compra\bin\Debug\net9.0\C# - Lista de Compra.pdb
+D:\.NET Projects\C# - Lista de Compra\obj\Debug\net9.0\C# - Lista de Compra.dll
+D:\.NET Projects\C# - Lista de Compra\obj\Debug\net9.0\refint\C# - Lista de Compra.dll
+D:\.NET Projects\C# - Lista de Compra\obj\Debug\net9.0\C# - Lista de Compra.pdb
+D:\.NET Projects\C# - Lista de Compra\obj\Debug\net9.0\C# - Lista de Compra.genruntimeconfig.cache
+D:\.NET Projects\C# - Lista de Compra\obj\Debug\net9.0\ref\C# - Lista de Compra.dll
