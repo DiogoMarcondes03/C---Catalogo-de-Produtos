@@ -10,9 +10,6 @@ namespace CompraModels
     public class Vendas
 
     {
-        public string Geladeira { get; set; } = string.Empty;
-        public string Lavadora { get; set; } = string.Empty;
-        public string MicroOndas { get; set; } = string.Empty;
 
         public void MenuComprar()
         {
