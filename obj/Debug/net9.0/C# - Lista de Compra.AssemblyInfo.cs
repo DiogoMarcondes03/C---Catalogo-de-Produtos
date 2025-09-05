@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# - Lista de Compra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b86115817f0e2808b7c61d5fd8887580217754a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b61eb9e1c81cbd3c2f42958f44e6d80decd2237d")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# - Lista de Compra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# - Lista de Compra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,4 +2,5 @@
 using System;
 
 Vendas vendas = new Vendas();
-vendas.MenuComprar();
+//vendas.MenuComprar();
+vendas.IniciarVendas();
